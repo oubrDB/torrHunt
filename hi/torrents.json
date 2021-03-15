@@ -1,0 +1,42 @@
+{
+    "torrents": {
+        "w1337x": {
+            "url": "https://1337x.to",
+            "active": true
+        },
+        "thepiratebay": {
+            "url": "https://thehiddenbay.com",
+            "active": true
+        },
+        "limetorrents": {
+            "url": "https://www.limetorrents.info",
+            "active": true
+        },
+        "yts": {
+            "url": "https://yts.mx",
+            "active": true
+        },
+        "eztv": {
+            "url": "https://eztv.re",
+            "active": true
+        },
+        "ettv": {
+            "url": "https://www.ettvcentral.com",
+            "active": true
+        },
+        "nyaa": {
+            "url": "https://nyaa.si",
+            "active": true
+        },
+        "oxtorrent": {
+            "url": "https://www.oxtorrent.co",
+            "active": true
+        },
+        "cpasbien": {
+            "url": "https://www.cpasbien.sh",
+            "active": true
+        }
+    },
+    "updateDate": "14/Mar/2021",
+    "version": "0.0.1"
+}
