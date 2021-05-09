@@ -37,3 +37,8 @@ Official website:  https://torrhunt.pages.dev
 [#] Test the reachability, check if sources & providers websites are working on your network.
 
 [#] Built-in search history.
+
+# Screenshots
+<img src="https://i.imgur.com/wZBOEBx.png" width="250">
+
+## https://imgur.com/gallery/BBQOkzJ
