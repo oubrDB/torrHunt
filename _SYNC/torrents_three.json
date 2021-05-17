@@ -71,6 +71,14 @@
             "name": "cpasbien",
             "sup": "",
             "flag": "france"
+        },
+        {
+            "url": "https://www.google.com",
+            "active": true,
+            "namePlain": "Google",
+            "name": "Google",
+            "sup": "",
+            "flag": "globe"
         }
     ],
     [
