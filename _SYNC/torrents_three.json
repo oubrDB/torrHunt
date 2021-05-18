@@ -1,7 +1,7 @@
 [
     [
         {
-            "url": "https://1337x.to",
+            "url": "https://1337x.gd",
             "active": true,
             "namePlain": "1337X",
             "name": "w1337x",
@@ -17,7 +17,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://www.limetorrents.info",
+            "url": "https://www.limetorrents.net",
             "active": true,
             "namePlain": "LimeTorrents",
             "name": "limetorrents",
