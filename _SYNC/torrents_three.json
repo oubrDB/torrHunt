@@ -37,7 +37,7 @@
             "active": true,
             "namePlain": "EZTV",
             "name": "eztv",
-            "sup": "",
+            "sup": "<sup>TVshows</sup>",
             "flag": "globe"
         },
         {
@@ -75,7 +75,7 @@
     ],
     [
         {
-            "DBversion": "1.0.1",
+            "DBversion": "1.0.2",
             "APPversion": "1.0.3"
         }
     ]
