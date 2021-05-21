@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 - You can now order (arrange) sources/providers the way you want
 - The ability to disable search history, plus some tweaks 
 - Few visual changes
-- <1337x> : The ability to sort by category, and displaying the number of comments
+- <1337x> : The ability to sort by category. Number of comments are displayed on results
 ## [1.0.3] - [22/Apr/2021]
 - Minor changes
 ## [1.0.2] - [19/Apr/2021]
