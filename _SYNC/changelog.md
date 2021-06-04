@@ -1,11 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - [04/Jun/2021]
+- You can now read torrent -> [description / list of files / comments / list of trackers / info hash] directly from the app;
+If available, torrent -> [cover image / category & subcategory / movie,tv genres & summary / uploader / downloads / language] are also included
+- Few visual changes
 ## [1.0.4] - [21/May/2021]
 - You can now order (arrange) sources/providers the way you want
-- The ability to disable search history, plus some tweaks 
+- The ability to disable search history
 - Few visual changes
-- <1337x> : The ability to sort by category. Number of comments are displayed on results
+- <1337x> : You can now sort by category
 ## [1.0.3] - [22/Apr/2021]
 - Minor changes
 ## [1.0.2] - [19/Apr/2021]
