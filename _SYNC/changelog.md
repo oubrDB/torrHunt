@@ -1,7 +1,8 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.0.5] - [04/Jun/2021]
+## [1.0.5] - [06/Jun/2021]
+- A new search provider is available : TorrentGalaxy
 - You can now read torrent -> [description / list of files / comments / list of trackers / info hash] directly from the app;
 If available, torrent -> [cover image / category & subcategory / movie,tv genres & summary / uploader / downloads / language] are also included
 - Few visual changes
