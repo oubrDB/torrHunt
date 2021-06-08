@@ -17,10 +17,26 @@
             "flag": "globe"
         },
         {
+            "url": "https://torrentgalaxy.to",
+            "active": true,
+            "namePlain": "TorrentGalaxy",
+            "name": "torrentgalaxy",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
             "url": "https://www.limetorrents.info",
             "active": true,
             "namePlain": "LimeTorrents",
             "name": "limetorrents",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://www.ettvcentral.com",
+            "active": true,
+            "namePlain": "ETTV",
+            "name": "ettv",
             "sup": "",
             "flag": "globe"
         },
@@ -38,14 +54,6 @@
             "namePlain": "EZTV",
             "name": "eztv",
             "sup": "<sup>TV</sup>",
-            "flag": "globe"
-        },
-        {
-            "url": "https://www.ettvcentral.com",
-            "active": true,
-            "namePlain": "ETTV",
-            "name": "ettv",
-            "sup": "",
             "flag": "globe"
         },
         {
@@ -76,7 +84,7 @@
     [
         {
             "DBversion": "1.0.2",
-            "APPversion": "1.0.4"
+            "APPversion": "1.0.5"
         }
     ]
 ]
