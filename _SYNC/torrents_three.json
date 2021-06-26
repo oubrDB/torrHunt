@@ -67,7 +67,7 @@
         {
             "url": "https://www.oxtorrent.co",
             "active": true,
-            "namePlain": "OxTorrents",
+            "namePlain": "OxTorrent",
             "name": "oxtorrent",
             "sup": "",
             "flag": "france"
@@ -83,8 +83,8 @@
     ],
     [
         {
-            "DBversion": "1.0.2",
-            "APPversion": "1.0.5"
+            "DBversion": "1.0.3",
+            "APPversion": "1.0.6"
         }
     ]
 ]
