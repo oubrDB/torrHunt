@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "url": "https://1337x.to",
+            "active": true,
+            "namePlain": "1337X",
+            "name": "w1337x",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://thehiddenbay.com",
+            "active": true,
+            "namePlain": "ThePirateBay",
+            "name": "thepiratebay",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://torrentgalaxy.to",
+            "active": true,
+            "namePlain": "TorrentGalaxy",
+            "name": "torrentgalaxy",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://www.limetorrents.info",
+            "active": true,
+            "namePlain": "LimeTorrents",
+            "name": "limetorrents",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://www.ettvcentral.com",
+            "active": true,
+            "namePlain": "ETTV",
+            "name": "ettv",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
+            "url": "https://yts.mx",
+            "active": true,
+            "namePlain": "YTS",
+            "name": "yts",
+            "sup": "<sup>movies</sup>",
+            "flag": "globe"
+        },
+        {
+            "url": "https://eztv.re",
+            "active": true,
+            "namePlain": "EZTV",
+            "name": "eztv",
+            "sup": "<sup>TV</sup>",
+            "flag": "globe"
+        },
+        {
+            "url": "https://nyaa.si",
+            "active": true,
+            "namePlain": "NYAA",
+            "name": "nyaa",
+            "sup": "<sup>anime</sup>",
+            "flag": "globe"
+        },
+        {
+            "url": "https://www.oxtorrent.co",
+            "active": true,
+            "namePlain": "OxTorrent",
+            "name": "oxtorrent",
+            "sup": "",
+            "flag": "france"
+        },
+        {
+            "url": "https://www.cpasbien.sh",
+            "active": true,
+            "namePlain": "Cpasbien",
+            "name": "cpasbien",
+            "sup": "",
+            "flag": "france"
+        }
+    ],
+    [
+        {
+            "DBversion": "1.0.3",
+            "APPversion": "1.0.6"
+        }
+    ]
+]
