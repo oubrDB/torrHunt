@@ -9,6 +9,14 @@
             "flag": "globe"
         },
         {
+            "url": "https://google.com",
+            "active": true,
+            "namePlain": "Google",
+            "name": "google",
+            "sup": "",
+            "flag": "globe"
+        },
+        {
             "url": "https://thehiddenbay.com",
             "active": true,
             "namePlain": "ThePirateBay",
