@@ -1,39 +1,39 @@
 {
     "torrents": {
         "w1337x": {
-            "url": "https://yahoo.to",
+            "url": "http://discontinued.com",
             "active": true
         },
         "thepiratebay": {
-            "url": "https://yahoo.com",
+            "url": "http://discontinued.com",
             "active": true
         },
         "limetorrents": {
-            "url": "https://www.yahoo.info",
+            "url": "http://discontinued.com",
             "active": true
         },
         "yts": {
-            "url": "https://yahoo.mx",
+            "url": "http://discontinued.com",
             "active": true
         },
         "eztv": {
-            "url": "https://yahoo.re",
+            "url": "http://discontinued.com",
             "active": true
         },
         "ettv": {
-            "url": "https://www.yahoo.com",
+            "url": "http://discontinued.com",
             "active": true
         },
         "nyaa": {
-            "url": "https://yahoo.si",
+            "url": "http://discontinued.com",
             "active": true
         },
         "oxtorrent": {
-            "url": "https://www.yahoo.co",
+            "url": "http://discontinued.com",
             "active": true
         },
         "cpasbien": {
-            "url": "https://www.yahoo.sh",
+            "url": "http://discontinued.com",
             "active": true
         }
     },
