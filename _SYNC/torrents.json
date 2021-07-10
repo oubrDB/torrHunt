@@ -1,42 +1,42 @@
 {
     "torrents": {
         "w1337x": {
-            "url": "https://1337x.to",
+            "url": "https://yahoo.to",
             "active": true
         },
         "thepiratebay": {
-            "url": "https://thehiddenbay.com",
-            "active": true
+            "url": "https://yahoo.com",
+            "active": false
         },
         "limetorrents": {
-            "url": "https://www.limetorrents.info",
-            "active": true
+            "url": "https://www.yahoo.info",
+            "active": false
         },
         "yts": {
-            "url": "https://yts.mx",
-            "active": true
+            "url": "https://yahoo.mx",
+            "active": false
         },
         "eztv": {
-            "url": "https://eztv.re",
-            "active": true
+            "url": "https://yahoo.re",
+            "active": false
         },
         "ettv": {
-            "url": "https://www.ettvcentral.com",
-            "active": true
+            "url": "https://www.yahoo.com",
+            "active": false
         },
         "nyaa": {
-            "url": "https://nyaa.si",
-            "active": true
+            "url": "https://yahoo.si",
+            "active": false
         },
         "oxtorrent": {
-            "url": "https://www.oxtorrent.co",
-            "active": true
+            "url": "https://www.yahoo.co",
+            "active": false
         },
         "cpasbien": {
-            "url": "https://www.cpasbien.sh",
-            "active": true
+            "url": "https://www.yahoo.sh",
+            "active": false
         }
     },
-    "DBversion": "1.0.0",
-    "appVersion": "1.0.4"
+    "DBversion": "1.0.1",
+    "appVersion": "1.0.6"
 }
