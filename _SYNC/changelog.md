@@ -1,6 +1,8 @@
 # ChangeLog
 All notable changes to this project will be documented in this file.
 
+## [1.0.8] - [08/Sep/2021]
+- Fixed a bug, who doesn't allow you to download (error code : #DT)
 ## [1.0.7] - [29/Jul/2021]
 - ETTV, YTS, TorrentGalaxy, are now working again
 - Some visual tweaks
